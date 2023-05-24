@@ -1,0 +1,20 @@
+23.5.2023, 5:11:55 	 Unexpected token } in JSON at position 163
+----------------------------
+23.5.2023, 5:12:16 	 Route /api/furnitures not exist
+----------------------------
+23.5.2023, 5:12:57 	 Cannot set headers after they are sent to the client
+----------------------------
+24.5.2023, 3:31:27 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeashop`.`furnitures`, CONSTRAINT `furnitures_ibfk_1` FOREIGN KEY (`furnitureTypesId`) REFERENCES `furnituretypes` (`furnitureTypesId`) ON DELETE CASCADE ON UPDATE CASCADE)
+----------------------------
+24.5.2023, 3:31:38 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeashop`.`furnitures`, CONSTRAINT `furnitures_ibfk_1` FOREIGN KEY (`furnitureTypesId`) REFERENCES `furnituretypes` (`furnitureTypesId`) ON DELETE CASCADE ON UPDATE CASCADE)
+----------------------------
+24.5.2023, 3:33:14 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeashop`.`furnitures`, CONSTRAINT `furnitures_ibfk_1` FOREIGN KEY (`furnitureTypesId`) REFERENCES `furnituretypes` (`furnitureTypesId`) ON DELETE CASCADE ON UPDATE CASCADE)
+----------------------------
+24.5.2023, 3:33:27 	 Route /api/furnitures not exist
+----------------------------
+24.5.2023, 3:33:27 	 Route /favicon.ico not exist
+----------------------------
+24.5.2023, 3:43:06 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeashop`.`furnitures`, CONSTRAINT `furnitures_ibfk_1` FOREIGN KEY (`furnitureTypesId`) REFERENCES `furnituretypes` (`furnitureTypesId`) ON DELETE CASCADE ON UPDATE CASCADE)
+----------------------------
+24.5.2023, 3:43:16 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeashop`.`furnitures`, CONSTRAINT `furnitures_ibfk_1` FOREIGN KEY (`furnitureTypesId`) REFERENCES `furnituretypes` (`furnitureTypesId`) ON DELETE CASCADE ON UPDATE CASCADE)
+----------------------------

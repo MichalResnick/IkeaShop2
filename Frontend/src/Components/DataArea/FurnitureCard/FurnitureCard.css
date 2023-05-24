@@ -1,0 +1,41 @@
+
+.FurnitureCard {
+    width: 300px;
+    background-image: linear-gradient(rgb(109, 45, 16), rgb(73, 41, 2));
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    font-family: Segoe Print;
+    display: flex;
+    justify-content: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+  }
+  
+  .FurnitureCard >.card-content {
+    padding: 20px;
+  }
+  
+  .FurnitureCard >.card-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .FurnitureCard >.card-description {
+    margin-bottom: 10px;
+  }
+  
+  .FurnitureCard >.card-link {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #4caf50;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  
+  .FurnitureCard >.card-link:hover {
+    background-color: #45a049;
+  }
+  

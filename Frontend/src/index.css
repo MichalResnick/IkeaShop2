@@ -1,0 +1,16 @@
+html, body, #root {
+    height: 100%;
+    text-align: center;
+    font-size: x-large;
+    /* background-image:url("./Assets/Pictures/images.jpg"); */
+    background-image: linear-gradient(rgb(16, 109, 33), rgb(0, 16, 7));
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+
+input,select,button{
+    font-size: xx-large;
+    color: crimson;
+}
